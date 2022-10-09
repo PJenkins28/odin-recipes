@@ -1,0 +1,24 @@
+* {
+    background-color: #e2e4e3
+}
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Brush Script MT", "Lucinda Handwriting", cursive;
+    font-size: 42px;
+}
+
+.links {
+    font-weight: bold;
+    color: #141514;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
